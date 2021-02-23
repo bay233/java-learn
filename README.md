@@ -997,7 +997,6 @@ public class Student {
 代码示例
 
 ```java
-
 import java.util.Random;
 
 public class Test1 {
@@ -1044,6 +1043,19 @@ public class Test1 {
 ![img](https://www.runoob.com/wp-content/uploads/2014/01/2243690-9cd9c896e0d512ed.gif)
 
 图片中加黑边框中的类是最常用的几个类，ArrayList（数组列表），LinkedList（链表），HashMap（哈希map），HashSet（哈希集合）。
+
+**基本类型对应的包装类表如下：
+
+| 基本类型 | 引用类型  |
+| :------- | :-------- |
+| boolean  | Boolean   |
+| byte     | Byte      |
+| short    | Short     |
+| int      | Integer   |
+| long     | Long      |
+| float    | Float     |
+| double   | Double    |
+| char     | Character |
 
 ## ArrayList
 
@@ -1196,7 +1208,6 @@ HashMap中常用方法:
 代码示例
 
 ```java
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
@@ -1296,7 +1307,6 @@ HashSet中常用方法
 代码示例
 
 ```java
-
 import java.util.HashSet;
 
 public class Test3 {

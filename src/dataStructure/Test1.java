@@ -9,6 +9,7 @@ import java.util.ArrayList;
 public class Test1 {
 
     public static void main(String[] args) {
+        int[] arr = new int[10];
         ArrayList<String> sites = new ArrayList<String>();
         // 添加元素
         sites.add("Google");
