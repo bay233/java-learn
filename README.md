@@ -31,7 +31,7 @@ public class HelloWorld {
 
 ```shell
 javac HelloWorld.java  # 将Java文件编译成能够执行的Java字节码
-java HelloWorld.class  # 执行Java字节码程序
+java HelloWorld  # 执行Java字节码程序
 ```
 
 
